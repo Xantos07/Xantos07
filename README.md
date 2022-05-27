@@ -1,4 +1,4 @@
-### Bonjour suis Xantos ! 
+### Bonjour je suis Xantos ! 
 
 Je suis développeur sous Unity en C# et également GameDesigner ;)
 
