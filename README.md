@@ -1,6 +1,6 @@
 ### Bonjour je suis Xantos ! 
 
-Je suis développeur sous Unity en C# et également GameDesigner ;)
+Jeune développeur et GamDesigner dans l'âme ! A la conquête de nouvelles aventures et de challenges ! 
 
 
 Mon portfolio :
