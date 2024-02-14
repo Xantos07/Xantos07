@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/C4E16AQEyUr8_qYis_g/profile-displaybackgroundimage-shrink_350_1400/0/1650445235243?e=1681948800&v=beta&t=BF4t0H5R8kMODPX5A0PlnmqgeUjcReCuRqpOHjj4guo" style="width: 100%;"/> 
+<img src="https://media.licdn.com/dms/image/C4E16AQEyUr8_qYis_g/profile-displaybackgroundimage-shrink_350_1400/0/1650445235632?e=1713398400&v=beta&t=TrKVXsLlzDbjgQ34vNuTPmdOQLsxQErB7ufKPOjlHYo" style="width: 100%;"/> 
 
 ### Bonjour je suis Xantos ! 
 
