@@ -2,9 +2,6 @@
 
 ### Bonjour je suis Xantos ! 
 
-Jeune développeur et GamDesigner dans l'âme ! A la conquête de nouvelles aventures et de challenges ! 
-
-
 🐼 | Mon portfolio :
 https://picque-alexis.fr/
 
