@@ -1,12 +1,25 @@
 ![BanniereRemake2](https://github.com/user-attachments/assets/84de22f5-d0c7-4f80-8203-58ad15bd0b32)
 
-### Bonjour je suis Xantos ! 
+## 👋 Bonjour, je suis Xantos ! 
 
-🐼 | Mon portfolio :
-https://picque-alexis.fr/
+Bienvenue sur mon GitHub ! Je partage mes projets, et expérience !
 
-🐝 | La ruche à idées :
-https://www.larucheaidees.fr/
+### 🌟 À propos de moi :
+- 🎓 Développeur passionné par le jeu vidéo
+- 🌱 Apprendre est une très belle chose 
+- 🚀 Plein de projets vont voir le jour
+
+---
+
+### 🌐 Mes liens :
+
+🐼 **Mon portfolio** :  
+[https://picque-alexis.fr/](https://picque-alexis.fr/)
+
+🐝 **La ruche à idées** :  
+[https://www.larucheaidees.fr/](https://www.larucheaidees.fr/)
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xantos07&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -27,4 +40,8 @@ https://www.larucheaidees.fr/
 
 <a href="https://www.linkedin.com/in/alexis-picque-248472230/">
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="21px"/>
+</a>
+
+<a href="https://github.com/Xantos07">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="21px"/>
 </a>
