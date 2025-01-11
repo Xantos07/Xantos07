@@ -21,7 +21,7 @@ Bienvenue sur mon GitHub ! Je partage mes projets, et expérience !
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xantos07&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xantos07&layout=compact&theme=onedark)
 
 ## Technical Skills
 
