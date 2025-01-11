@@ -21,8 +21,6 @@ Bienvenue sur mon GitHub ! Je partage mes projets, et expérience !
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xantos07&layout=compact&theme=onedark)
-
 ## Technical Skills
 
 ![C#](https://img.shields.io/badge/Code-C%23-8A2BE2?logo=csharp&logoColor=white)
