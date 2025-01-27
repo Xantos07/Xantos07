@@ -30,6 +30,7 @@ Bienvenue sur mon GitHub ! Je partage mes projets, et expérience !
 ![Lua](https://img.shields.io/badge/Code-Lua-2C2D72?logo=lua&logoColor=white)
 ![HTML](https://img.shields.io/badge/Code-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/Code-CSS-1572B6?logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Code-Vue.js-42B883?logo=vue.js&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Tool-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-181717?logo=github&logoColor=white)
